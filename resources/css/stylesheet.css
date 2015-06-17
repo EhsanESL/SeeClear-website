@@ -124,14 +124,14 @@ footer a:focus, footer a:hover {
 #home {
     height: 100%;
     background-color: #FFFFFF;
-    background-image: url(../img/streamLine-2.png);
+    background-image: url(../img/zephyr031.JPG);
     background-attachment: scroll;
     background-position: center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
-    color: #DAE3ED;
+    color: #819bb6;
     overflow-x:scroll;
 }
 
@@ -441,12 +441,12 @@ footer a:focus, footer a:hover {
     float: center;
 }
 
-.content { 
+.content {
     padding: 5% 0;
 }
 
-::-webkit-scrollbar { 
-    display: none; 
+::-webkit-scrollbar {
+    display: none;
 }
 
 @media screen and (max-width: 640px) {
@@ -526,7 +526,7 @@ ul.social-buttons li a:active {
 }
 
 .team-member {
-    font-size: 200%; 
+    font-size: 200%;
 }
 
 #team {
